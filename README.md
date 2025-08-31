@@ -1,10 +1,12 @@
 # MK-N220 Nanoparticles as a Hemostatic Agent
-This repository contains details of a research project by Sairaj on the use of MK-N220 nanoparticles as an effective hemostatic agent to improve blood clotting. The project, supervised by Dr. Shantanu Kumar Behera, outlines the synthesis, characterization, and application of these nanoparticles.
+This repository contains details of a research project by Sairaj on the use of MK-N220 nanoparticles as an effective hemostatic agent to improve blood clotting. The project, supervised by Dr. Shantanu Kumar Behera, outlines the synthesis, characterisation, and application of these nanoparticles.
 
 # Synthesis: 
-The project utilizes a multi-stage Polymer-Derived Ceramics (PDC) route to create a nanocomposite powder. The process involves mixing MK powder and N220 Nano-Carbon with ethanol, followed by cross-linking and heat treatment at various temperatures.
+The project utilises a multi-stage Polymer-Derived Ceramics (PDC) route to create a nanocomposite powder. The process involves mixing MK powder and N220 Nano-Carbon with ethanol, followed by cross-linking and heat treatment at various temperatures.
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_udr3m7udr3m7udr3" src="https://github.com/user-attachments/assets/a7ee74f3-e6d7-42a0-96f5-b8a9717694f4" />
+
+# Pyrolysis at 800, 1000, 1100 and 1200: 
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_7w0jfo7w0jfo7w0j" src="https://github.com/user-attachments/assets/b7215ec0-653e-4aac-af3a-7cfc650d0fa1" />
 
