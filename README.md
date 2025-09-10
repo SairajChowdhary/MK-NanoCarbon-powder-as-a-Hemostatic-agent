@@ -11,7 +11,7 @@ The project utilises a multi-stage Polymer-Derived Ceramics (PDC) route to creat
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_7w0jfo7w0jfo7w0j" src="https://github.com/user-attachments/assets/b7215ec0-653e-4aac-af3a-7cfc650d0fa1" />
 
-# Chrystallisation
+# Characterisation
 The research includes a thorough structural and micro-structural analysis. Techniques such as XRD and Raman Spectroscopy were used to confirm the presence of both amorphous and graphitic carbon. FESEM analysis provided insights into the morphology and crystallinity of the nanoparticles.
 
 # Hemostatic Application: 
