@@ -6,7 +6,7 @@ The project utilises a multi-stage Polymer-Derived Ceramics (PDC) route to creat
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_udr3m7udr3m7udr3" src="https://github.com/user-attachments/assets/a7ee74f3-e6d7-42a0-96f5-b8a9717694f4" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=#Pyrolysis+at+800+,1000+,1100+and+1200" alt="Animated Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Pyrolysis+at+800+,1000+,1100+and+1200" alt="Animated Typing SVG" />
 
 <img width="2048" height="2048" alt="Gemini_Generated_Image_7w0jfo7w0jfo7w0j" src="https://github.com/user-attachments/assets/b7215ec0-653e-4aac-af3a-7cfc650d0fa1" />
 
